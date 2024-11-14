@@ -36,6 +36,7 @@ genai-medical-analysis/ ├── data/ │ └── sample_medical_reports/ �
    pip install -r requirements.txt
 
 4. **Install the required packages:**
+   ```sh
    AZURE_TEXT_ANALYTICS_KEY=Your Azure Language Key
    AZURE_TEXT_ANALYTICS_ENDPOINT=Your Azure Language Endpoint
    AZURE_SEARCH_API_KEY=Your Azure Search Key
